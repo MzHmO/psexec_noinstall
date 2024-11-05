@@ -12,3 +12,8 @@ We discovered this when we saw the RemCom_Communication bundle. This one is stan
 Using psexec_noinstall, it is possible to connect to this pipeline as any low-privileged user, since the DACL of the pipeline allows this:
 ![изображение](https://user-images.githubusercontent.com/92790655/220081419-fe45e1b0-c57a-4f10-9f61-9b6345443e87.png)
 ![изображение](https://user-images.githubusercontent.com/92790655/220082245-f3f4c66f-d3c7-4d7b-af5f-07fb69a47ee5.png)
+
+
+Here's a checker:
+
+https://github.com/beaverdreamer/nxc-modules
